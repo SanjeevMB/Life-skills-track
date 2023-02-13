@@ -1,6 +1,6 @@
 # NoSQL Database
 
-## Question 1 : What is NoSQL Database ?
+## What is NoSQL Database ?
 
 1. `NoSQL database` they typically use it to refer to any non-relational database.
 2. It was introduced in late 2000s.
@@ -15,7 +15,7 @@
 11. NoSQL database provide facility to distrubute data over multiple servers and multiple regions.
 12. eg : MongoDB, Cassandra, DynamoDB, Postegra, Raven, Redius.
 
-## Question 2 : Types of NoSQL ?
+## Types of NoSQL ?
 
 #### 1. Columnar database
 #### 2. Document database
