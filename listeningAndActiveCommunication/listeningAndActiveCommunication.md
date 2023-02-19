@@ -18,7 +18,7 @@
 
 > Reflective listening is to understand and validate the speaker's feelings. It involves actively listening to the speaker, then summarizing what they said to confirm that you understand their message. This technique can help build trust, reduce misunderstandings, and foster a deeper level of communication.
 
-### Question 3. According to Fisher's model, what are the key points of Reflective Listening?
+### Question 2. According to Fisher's model, what are the key points of Reflective Listening?
 
 1. Paying attention
 2. Showing empathy
@@ -29,7 +29,7 @@
 
 ## 3. Reflection
 
-### Question 4. What are the obstacles in your listening process?
+### Question 3. What are the obstacles in your listening process?
 
 1. Overthinking
 2. Lack of interest
