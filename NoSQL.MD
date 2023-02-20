@@ -56,7 +56,7 @@
 5. Relationships always have a direction, a type, a start node, and an end node, and they can have properties, just like nodes.
 6. eg: Amazon Neptune, Dgraph, OrientDB, Stardog.
 
-![img](./ddbms.drawing.png)
+![img](./images/Graphical.png)
 
 ###  How NoSQL is different from Relational database
 
