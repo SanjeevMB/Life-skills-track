@@ -13,5 +13,9 @@
 
 ### 2. Communication
 
->Active listening is a communication skill that involves fully concentrating on and comprehending the message.
+>Active listening is a communication skill that involves fully concentrating on and comprehending the message. 
+
+### 3. Learning process
+
+>Learning anything in easy and effectively way make our life easier. Here is different method of learning.
 
