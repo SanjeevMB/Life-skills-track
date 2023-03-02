@@ -96,27 +96,12 @@ What are one or more points that you want to take action on from the manual?
 
 ### I want to take some points below
 
-1. I am 100 percent responsible for my learning.
-2. I know more efforts lead to better understanding.
-3. I will understand each concept properly.
-4. I will treat new concepts and situations as learning opportunities. I will never get pressurized by any concept or situation.
-5. I will stay relaxed and focused no matter what happens.
-6. I will use the weapons of Documentation, Google, Stack Overflow, Github Issues and the Internet before asking for help from fellow warriors or looking at the solution.
-7. I will take ownership of the projects assigned to me. Its execution, delivery and functionality are my sole responsibility.
-8. I am very good friends with Confusion, Discomfort and Errors.
-9. Confusion tells me there is more understanding to be achieved.
-10. Discomfort tells me I have to make an effort to understand. I understand the learning process is uncomfortable.
-11. Errors tell me what is not working in my code and how to fix it.
-12. I will understand the users very well. I will serve them and society by writing rock-solid excellent software.
-13. I will be focused on mastery till I can do things half asleep. If someone wakes me up at 3 AM in the night, I will calmly solve the problem like James Bond and go to sleep. 
-14. I will not leave my code unfinished till I complete the following checklist:
-         1. Make it work.
-         2. Make it readable.
-         3. Make it modular.
-        4. Make it efficient.
-15. I will follow the steps required to solve problems:
+1. I know more efforts lead to better understanding.
+2.  I will be focused on mastery till I can do things half asleep. If someone wakes me up at 3 AM in the night, I will calmly solve the problem like James Bond and go to sleep. 
+
+3.  I will follow the steps required to solve problems:
 Relax
-16. Focus - What is the problem? What do I need to know to solve it?
+
 
 ![img](./images/growthMindSet.jpeg)
 
