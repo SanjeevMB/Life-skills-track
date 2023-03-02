@@ -19,3 +19,7 @@
 
 >Learning anything in easy and effectively way make our life easier. Here is different method of learning.
 
+### 4. Grit and growth mindset
+
+> Have a mindset to adopt changes and believe on yoouself make effort you can do better if you believe
+
