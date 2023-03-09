@@ -19,3 +19,13 @@ ___
 3. When I think about my bad past and failure.
 ***
 
+## Question 3.
+How do you understand if you are in the Excitement quadrant?
+___
+1. When I do something unexpected I go to the excitement state and I feel high. 
+2. I feel very light free and energtic.
+3. I started to do some extra activities and some unnecessary activity.
+4. Some time I understand by the feedback of other persons.
+5. Actually when I go to the excitement I forget everything I forget myself because i feel a lot of energy and tried to do something extra. 
+6. I lost my decision making abilities.
+***
