@@ -23,3 +23,7 @@
 
 > Have a mindset to adopt changes and believe on yoouself make effort you can do better if you believe
 
+### 5. Energy management
+
+> By managing the  different states of our brain like stress, excitement, anxioty and sad we can inprove our daily life. It will help to achieve our goals.
+
