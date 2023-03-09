@@ -59,8 +59,18 @@ Paraphrase the video - Brain Changing Benefits of Exercise. Minimum 5 points.
 ___
 1. The exercises can change our brain very quickly and provides so many benefits like focus, depression, anxiety, stress relief and boredom
 2. If we will do exercise daily for 30 minutes it will help to improve our brain capacity.
-3. Exercise increases the new brain cells in our hippocampus of brain which increase the size of our brain and our capacity increases.
+3. Exercise increases the new brain cells in our hippocampus of the brain which increase the size of our brain and our capacity increases.
 4. By doing exercise it increases the attention function of our prefrontal cortex.
 5. We can reduce the effect of diseases like Alzheimer's because during exercise new brain cells produces in our brain.
 ***
 
+## Question 7.
+What are some steps you can take to exercise more?
+___
+1. Some of the steps you can take are the Use of stairs, whenever possible
+Walking to the destination instead of a commute.
+Power-walking whenever possible.
+2. Avoid using the lift and use stares to travel on the roof
+3. Play games like badminton, football or volleyball.
+4. I will try to make my routine include exercise kinds of stuff.
+***
