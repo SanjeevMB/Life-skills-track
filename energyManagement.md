@@ -10,3 +10,12 @@ ___
 4. In case I am not able to solve my problem then I try to share my problems with my family members or close friends and ask them for help.
 ***
 
+## Question 2.
+When do you find getting into the Stress quadrant?
+___
+
+1. When I expect more from myself and am not able to fulfill my expectation.
+2. When I try to do something fully perfect.
+3. When I think about my bad past and failure.
+***
+
