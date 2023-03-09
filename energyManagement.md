@@ -42,3 +42,14 @@ Quality sleep can increase our memory power and enhance our learning abilities. 
 4. Lack of sleep can also affect your `DNA` making your body immune cells and increasing the production of cancer-producing cells.
 5. lake of sleep decreases the testosterone level in men and fertility in women. 
 ***
+
+## Question 5.
+What are some ideas that you can implement to sleep better?
+___
+1. There are a lot of reasons who cause the lake of sleep according to medical science. By understanding and by knowing about them we can correct our sleep cycle.
+2. I implement some ideas to sleep better at night.
+    1. I will try to relax my body and my brain through breathing techniques or head massage.
+    2. I will eat food at least 2 hours before sleeping
+    3. I will avoid to use mobile or any social media applications.
+    4. Go away from your past and future concerns.
+***
