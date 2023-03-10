@@ -27,7 +27,7 @@
 
 > By managing the  different states of our brain like stress, excitement, anxioty and sad we can inprove our daily life. It will help to achieve our goals.
 
-### Prevention of sexual harassment
+### 6. Prevention of sexual harassment
 
 >Sexual harassment is a form of gender-based violence towards a person. It can occur in the workplace, schools, public places, and commonly experienced by women and childs. It can have severe consequences for the victim, like emotional distress, anxiety, depression, and even physical harm. It is important to take sexual harassment seriously and to take steps to prevent it from happening.
 
