@@ -31,5 +31,6 @@
 
 >Sexual harassment is a form of gender-based violence towards a person. It can occur in the workplace, schools, public places, and commonly experienced by women and childs. It can have severe consequences for the victim, like emotional distress, anxiety, depression, and even physical harm. It is important to take sexual harassment seriously and to take steps to prevent it from happening.
 
+### 7. Focus management
 
-
+>Focus management is an essential skill for anyone looking to achieve their goals and produce high-quality work in today's world of constant distractions and interruptions.
