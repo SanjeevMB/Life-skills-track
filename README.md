@@ -34,3 +34,7 @@
 ### 7. Focus management
 
 >Focus management is an essential skill for anyone looking to achieve their goals and produce high-quality work in today's world of constant distractions and interruptions.
+
+### 8. Tiny Habits
+
+>The basic idea behind Tiny Habits is to start with a small, easy-to-do habit and then gradually increase it over time. This makes it much easier to create a new habit because you are not trying to do too much too soon.
