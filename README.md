@@ -38,3 +38,7 @@
 ### 8. Tiny Habits
 
 >The basic idea behind Tiny Habits is to start with a small, easy-to-do habit and then gradually increase it over time. This makes it much easier to create a new habit because you are not trying to do too much too soon.
+
+### 9. Good Practices for Software Development
+
+>The good practices for software develpment are making notes duirng the meetings, working with `100 %` involvement, imroving the communication with collegue and seniors according the situations and choosing appropriage plateform for communication
