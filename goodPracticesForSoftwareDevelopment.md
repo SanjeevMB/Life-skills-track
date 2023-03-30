@@ -23,6 +23,6 @@ ___
 **to improve these things I have some ideas to improve.**
 * Focus management: I am thinking to start meditation and to improve my daily routine after I will spent some time with nature.
 * To balance the emotional peaks and lows, I will take care of my mindfulness and some mind-relaxing musical binaural beats.
-* To do things with `100%` involvement, I will focus on enjoyment during the work, not on the result with a growth mindset. to achieve `100%` involvement means going away from the rest of the world to do things and picking an appropriate work place.
+* To do things with `100%` involvement, I will focus on enjoyment during the work, not on the result with a growth mindset. to achieve `100%` involvement means going away from the rest of the world to do things and picking an appropriate workplace.
 * Whenever I will be stuck I will try to solve my problem myself by fixing a time limit. If it is not solved then if I have extra time to spend on that question then I will spend time on that otherwise according to the impotence of the problem and future relation of the problem I will spend time on that or I will take help from my friends or seniors
 ***
